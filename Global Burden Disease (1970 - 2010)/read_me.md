@@ -28,6 +28,7 @@ There are 187 distinct countries, which appears 315 times, once they are grouped
 There are 1.090 rows where Death Rate Per 100.000 habitants > 100.000, all of them with 1 week age group, which may indicate that death births are counted as deaths and not as births<br>
 <br>
 PART 2: About database analysis
+<br>
 Africa is the continent with the higgest Death Rate Per 100.000 habitants average over 1970 and 2010, with Mali as the most representative country. The top 6 biggest death rates are africans<br>
 Analyzing absolute numbers, India (94M) and China (78M) had the biggest deaths over the period, while Asia (282M) and Africa (70M) led by continents<br>
 61% of all deaths were men, and 62% of all deaths were 1-6 days age<br>
