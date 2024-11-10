@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Projetos de Análise de Dados</title>
+</head>
 <body>
     <h1>Projetos de Análise de Dados</h1>
     <p>Este repositório contém diversos projetos de análise de dados, cada um em sua respectiva subpasta. Abaixo está uma breve introdução de cada projeto.</p>
