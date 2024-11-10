@@ -1,7 +1,7 @@
 <h1>Projetos de Análise de Dados</h1>
 Este repositório contém diversos projetos de análise de dados, cada um em sua respectiva subpasta. Abaixo está uma breve introdução de cada projeto.<br>
 <br>
-<h3>1. Voter Intent Analysis During the 2020 U.S. Presidential Election</h3><br>
+<h3>1. Voter Intent Analysis During the 2020 U.S. Presidential Election</h3>
 Análise do comportamento dos eleitores durante a eleição presidencial dos EUA em 2020, focando em fatores sociais que influenciaram a intenção de voto.<br>
 Utilizou-se Python (Pandas) e dados do FiveThirtyEight Non-Voters Data.<br>
 <br>
