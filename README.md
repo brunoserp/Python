@@ -5,7 +5,6 @@
     <title>Projetos de Análise de Dados</title>
 </head>
 <body>
-    <h1>Projetos de Análise de Dados</h1>
     <p>Este repositório contém diversos projetos de análise de dados, cada um em sua respectiva subpasta. Abaixo está uma breve introdução de cada projeto.</p>
 
     <h2>1. Voter Intent Analysis During the 2020 U.S. Presidential Election</h2>
