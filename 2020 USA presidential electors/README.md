@@ -37,8 +37,8 @@
     <li>People who intended to vote for Trump have an average age of 54, and 52 for Biden.</li>
     <li>More Republicans intended to vote for Biden than Democrats did for Trump.</li>
     <li>91% of Democratic voters believe that the election result is important, compared to 88% of Republicans.</li>
-    <li>For 34% of those interviewed, displaying the American flag is a very important sign of being a good American. Women, Whites, the least educated group, and Republicans are the most likely to agree with this.</li>
-    <li>For 47% of those interviewed, believing in God is a very important sign of being a good American. Women, Whites, the least educated, and Republicans are more likely to agree with this.</li>
+    <li>For 34% of those interviewed, displaying the American flag is a very important sign of being a good American. Women, whites, the least educated group, and Republicans are the most likely to agree with this.</li>
+    <li>For 47% of those interviewed, believing in God is a very important sign of being a good American. Women, whites, the least educated, and Republicans are more likely to agree with this.</li>
     <li>The average age of people who intended to vote was higher than the other intentions.</li>
     <li>Among people who did not intend to vote in 2020 (8%), 22% did not plan to vote because they did not believe that the political system would serve their needs, and 21% did not think their vote mattered.</li>
 </ul>
