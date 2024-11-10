@@ -23,14 +23,14 @@ The analysis was made using Python (Pandas).
 # Main Results
 PART 1: About database estructure
 
-The set has 7 columns (5 categorical and 2 numerical) and 58.905 rows<br>
-There are 187 distinct countries, which appears 315 times, once they are grouped by age group (21 distinct values), sex (3 distinct values, which two summarize male and female data), decade (5 distinct values)<br>
-There are 1.090 rows where Death Rate Per 100.000 habitants > 100.000, all of them with 1 week age group, which may indicate that death births are counted as deaths and not as births<br>
+- The set has 7 columns (5 categorical and 2 numerical) and 58.905 rows<br>
+- There are 187 distinct countries, which appears 315 times, once they are grouped by age group (21 distinct values), sex (3 distinct values, which two summarize male and female data), decade (5 distinct values)<br>
+- There are 1.090 rows where Death Rate Per 100.000 habitants > 100.000, all of them with 1 week age group, which may indicate that death births are counted as deaths and not as births<br>
 <br>
 PART 2: About database analysis
 <br>
-Africa is the continent with the higgest Death Rate Per 100.000 habitants average over 1970 and 2010, with Mali as the most representative country. The top 6 biggest death rates are africans<br>
-Analyzing absolute numbers, India (94M) and China (78M) had the biggest deaths over the period, while Asia (282M) and Africa (70M) led by continents<br>
-61% of all deaths were men, and 62% of all deaths were 1-6 days age<br>
-In South America, Brazil had the fourth higghest decrease of death rate between 1970 and 2010 with 63%. Still, South America had a proportion between sexes of 39% women x 61% men over all the period, against 44% women x 56% men worldwide's<br>
-Death rate between 1970 and 2010: Europe had the highest decrease with 65%, Asia 61%, America 54%, Africa and Oceania with 42%. The countries with the highest decrease were Maldives in Asia with 83%, Portugal w/ 81%, Chile w/ 75%, Tunisia w/ 72% and Australia with 69%
+- Africa is the continent with the higgest Death Rate Per 100.000 habitants average over 1970 and 2010, with Mali as the most representative country. The top 6 biggest death rates are africans<br>
+- Analyzing absolute numbers, India (94M) and China (78M) had the biggest deaths over the period, while Asia (282M) and Africa (70M) led by continents<br>
+- 61% of all deaths were men, and 62% of all deaths were 1-6 days age<br>
+- In South America, Brazil had the fourth higghest decrease of death rate between 1970 and 2010 with 63%. Still, South America had a proportion between sexes of 39% women x - 61% men over all the period, against 44% women x 56% men worldwide's<br>
+- Death rate between 1970 and 2010: Europe had the highest decrease with 65%, Asia 61%, America 54%, Africa and Oceania with 42%. The countries with the highest decrease were Maldives in Asia with 83%, Portugal w/ 81%, Chile w/ 75%, Tunisia w/ 72% and Australia with 69%
