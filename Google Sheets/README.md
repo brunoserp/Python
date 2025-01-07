@@ -17,9 +17,7 @@ Essa comunicação se dá por meio de requisições, que são solicitações com
 <p>Para gerar as planilhas de setembro e a compilada, usei o programa 'gerador de planilhas.py'.</p>
 <p>Para gerar a planilha dimensão, usei o programa 'planilha dimensao.py'.</p>
 <br>
-<p>O 
-    [programa](https://github.com/brunoserp/Python/blob/main/Google%20Sheets/main.py) 
-    segue o passo a passo:</p>
+<p>O <a href="https://github.com/brunoserp/Python/blob/main/Google%20Sheets/main.py">programa</a> segue o passo a passo:</p>
 
 <ol>
     <li>Acesso às 3 planilhas do Google Sheets por meio de uma credencial do meu e-mail, que permite acesso aos arquivos. Isso é feito por uma biblioteca do Google.</li>
