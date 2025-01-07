@@ -35,6 +35,6 @@ Vale ressaltar que a aplicação das fórmulas foi feita pela função batch_upd
 <h3>Resultado</h3>
 <hr>
 Dados de setembro incluídos na planilha de dados compilados. <br>
-![Descrição da Imagem](https://github.com/user-attachments/assets/f41e0c12-05ff-4213-bf11-cf689016fa29)
+![imagem](https://github.com/user-attachments/assets/f41e0c12-05ff-4213-bf11-cf689016fa29)
 
 
