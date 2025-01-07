@@ -14,8 +14,8 @@ Essa comunicação se dá por meio de requisições, que são solicitações com
 
 <h3>Caso prático</h3>
 <hr>
-<p>Para gerar as planilhas de setembro e a compilada, usei o <a href=https://github.com/brunoserp/Python/blob/main/Google%20Sheets/gerador%20de%20planilhas.py> programa gerador de planilhas</a>.</p>
-<p>Para gerar a planilha dimensão, usei o programa 'planilha dimensao.py'.</p>
+<p>Para gerar as planilhas de setembro e a compilada, usei o <a href=https://github.com/brunoserp/Python/blob/main/Google%20Sheets/gerador%20de%20planilhas.py> programa gerador de planilhas mensais</a>.</p>
+<p>Para gerar a planilha dimensão, usei o <a href=https://github.com/brunoserp/Python/blob/main/Google%20Sheets/planilha%20dimensao.py> programa gerador de planilha dimensão.</p>
 <br>
 <p>O <a href="https://github.com/brunoserp/Python/blob/main/Google%20Sheets/main.py">programa</a> segue o passo a passo:</p>
 
